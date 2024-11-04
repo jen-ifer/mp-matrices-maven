@@ -18,6 +18,9 @@ Implementing a 2D Array.
 Citations:
 
 ---
+Gijima, Garikai - Last 2 methods
+Evening Tutors - Helped me start
+Paden Houck - I asked him questions
 
 This code may be found at <https://github.com/jen-ifer/mp-matrices-maven>. 
 
